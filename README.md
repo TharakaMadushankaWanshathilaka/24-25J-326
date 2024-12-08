@@ -35,3 +35,9 @@ In the Smart Aquarium System,  focuses on fish disease detection, treatment sugg
 The system identifies the disease type, provides detailed information, suggests treatments, and specifies a monitoring period.
 
 Monitoring through cameras, tracking recovery post-treatment
+
+- Feature 3
+
+  Automated fish feeders with programmable schedules. 
+
+IOT based devices designed to dispense precise amounts of food at predetermined intervals. This ensures consistent and accurate feeding routines, reducing the risk of overfeeding or underfeeding the fish. 
